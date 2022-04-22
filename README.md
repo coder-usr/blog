@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 home: true
 heroText: null
@@ -20,7 +20,4 @@ isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
 ---
-=======
-# blog
-A blog using Vuepress and vuepress-theme-reco
->>>>>>> 33f9121671ccec3b2b836f30869549831f78243e
+
